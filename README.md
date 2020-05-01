@@ -6,7 +6,7 @@ Objectiive:
 - Not regular upload to keep updating just one time download/upload whenever simp feels like it (Maybe regular uploads * Mood Swings *)
 
 Stuff to do:
-- Create a NIGHTYRAGE instagram account
+- ~~Create a NIGHTRAGE instagram account~~ [@NIGHTRAGE_official](https://www.instagram.com/NIGHTRAGE_official/)
 - Create a NIGHTRAGE Reddit Account
 - Download Images from /r/Awww, /r/dogpictures/, /r/cute/ and /r/aww/
   - Top 5000 most popular uploads
